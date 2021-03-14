@@ -1,0 +1,470 @@
+{
+  "users": [
+    {
+      "email": "patrickbyann@gmail.com",
+      "password": "clownmage",
+      "id": 1
+    },
+    {
+      "email": "gypatb@hotmail.com",
+      "password": "clownmage",
+      "id": 2
+    },
+    {
+      "email": "patrick.2016043082@student.atmajaya.ac.id",
+      "password": "clwonmage",
+      "id": 3
+    },
+    {
+      "email": "halo@gmail.com",
+      "password": "clownmage",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Sofa Ruang Tamu",
+      "brand": "Olympic",
+      "category": "Sofa",
+      "stock": 20,
+      "price": 2500000,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/a/m/amidi_recliner_brown_21_.jpg?auto=format&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/a/m/amidi-recliner-_brown_-_8_.jpg?auto=format&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/a/m/amidi_recliner_brown_25_.jpg?auto=format&ixlib=react-9.0.3"
+    },
+    {
+      "id": 2,
+      "name": "Sofa Dudukan Aegis",
+      "brand": "Aegis",
+      "category": "Sofa",
+      "stock": 3,
+      "price": 8499000,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/s/o/sofa-1-dudukan-aegis-3-edited_1.jpg?auto=format&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/s/o/sofa-1-dudukan-aegis-1-edited_2.jpg?auto=format&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/s/o/sofa-1-dudukan-aegis-2-edited_1.jpg?auto=format&ixlib=react-9.0.3"
+    },
+    {
+      "id": 3,
+      "name": "Sofa Dudukan Mutoyo",
+      "brand": "Mutoyo",
+      "category": "Sofa",
+      "stock": 20,
+      "price": 1999000,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/s/o/sofa1d_mutoyo_teal_2a_2-1_hires.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/s/o/sofa1d_mutoyo_teal_1_2-1_hires.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/s/o/sofa1d_mutoyo_teal_2b_2-1_hires.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 4,
+      "name": "Sofa Ruang Tamu Vienna L Houston",
+      "brand": "Houston",
+      "category": "Sofa",
+      "stock": 20,
+      "price": 9213100,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/1/_/1_290.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/w/i/wina_l_sofa__blue_jay-left__1_1_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/w/i/wina_l_sofa__custard-left__1_1_1.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 5,
+      "name": "Sofa Bran 2+1",
+      "brand": "Bran",
+      "category": "Sofa",
+      "stock": 20,
+      "price": 3266100,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/s/e/set_sofa_bran_2_1_dudukan.png?auto=format&w=1678&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/s/o/sofa2d_bran_elodie_mid_grey_2b_2-1_hires_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/s/o/sofa2d_bran_elodie_mid_grey_1_2-1_hires_1_1.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 6,
+      "name": "Meja TV Wellington",
+      "brand": "Wellington",
+      "category": "Meja",
+      "stock": 20,
+      "price": 3149000,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/m/e/meja_tv_wellington_tv_credenza_large_1__1.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/m/e/meja_tv_wellington_tv_credenza_large-_11__1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/m/e/meja_tv_wellington_tv_credenza_large-_7__1.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 7,
+      "name": "Meja TV Oolong",
+      "brand": "Oolong",
+      "category": "Meja",
+      "stock": 20,
+      "price": 4799200,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/f/a/fab39-2.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/m/e/meja_tv_oolong_credenza__tall__01.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/m/e/meja_tv_oolong_credenza__tall__02.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 8,
+      "name": "Meja TV Onyx",
+      "brand": "Onyx",
+      "category": "Meja",
+      "stock": 20,
+      "price": 1019000,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/m/e/mejatv_onyx_a_21_hires.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/m/e/mejatv_onyx_2_21_hires_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/m/e/mejatv_onyx_5_21_hires_1.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 9,
+      "name": "Meja TV Ronnie",
+      "brand": "Ronnie",
+      "category": "Meja",
+      "stock": 20,
+      "price": 3999000,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/t/v/tv1_1_.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/t/v/tv1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": ""
+    },
+    {
+      "id": 10,
+      "name": "Meja TV Zeus",
+      "brand": "Zeus",
+      "category": "Meja",
+      "stock": 20,
+      "price": 4999000,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/g/i/gion_tv_stand_f.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/g/i/gion_tv_stand.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+      "image3": ""
+    },
+    {
+      "id": 11,
+      "name": "Lemari Bufet Onyx",
+      "brand": "Onyx",
+      "category": "Lemari",
+      "stock": 20,
+      "price": 1999000,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/k/a/kabinetp_onyx_a_21_hires_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/k/a/kabinetp_onyx_1_21_hires_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/k/a/kabinetp_onyx_18_21_hires_1.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 12,
+      "name": "Lemari Mikku",
+      "brand": "Mikku",
+      "category": "Lemari",
+      "stock": 20,
+      "price": 2499000,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/m/i/mikku_cabinet-_3_.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/k/a/kabinet_miku.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/m/i/mikku_cabinet_2.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 13,
+      "name": "Lemari Adante Astrape",
+      "brand": "Astrape",
+      "category": "Lemari",
+      "stock": 20,
+      "price": 2429000,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/a/d/Adante_Cabinet_Type_A_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/a/d/Adante_Cabinet_Type_A_2.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/a/d/Adante_Cabinet_Type_A_4.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 14,
+      "name": "Lemari Buku Uno",
+      "brand": "Uno",
+      "category": "Lemari",
+      "stock": 19,
+      "price": 1539000,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/d/e/desain_tanpa_judul.png?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/u/n/uno_bookshelf_tall_3.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/u/n/uno_bookshelf_tall.png?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 15,
+      "name": "Lemari Buku Zaid",
+      "brand": "Zaid",
+      "category": "Lemari",
+      "stock": 20,
+      "price": 1199000,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/r/a/rakb_zaid_a_21_hires.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/r/a/rakb_zaid_1_21_hires.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/r/a/rakb_zaid_2_21_hires.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 16,
+      "name": "Hamilton Lampu Lantai Minimalis Indoor White",
+      "brand": "Hamilton",
+      "category": "Lampu Lantai",
+      "stock": 19,
+      "price": 909000,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampu_lantai_baltimore_black-_5_.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/5/1/518926---baltimore-floor-lamp-small_black-re_1_1_2.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampu_lantai_baltimore_black-_27_.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 17,
+      "name": "Baltimore Lampu Lantai Minimalis White Indoor",
+      "brand": "Baltimore",
+      "category": "Lampu Lantai",
+      "stock": 16,
+      "price": 909000,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampu_burlinfton_white.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/5/1/518925---baltimore-floor-lamp-medium_white-re_1_1_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_baltimore_white_6_21_hires.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 18,
+      "name": "Baltimore Lampu Lantai Minimalis Black Indoor",
+      "brand": "Baltimore",
+      "category": "Lampu Lantai",
+      "stock": 0,
+      "price": 909000,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_baltimore_smallblack_a_ori_hires_1_2_1.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_baltimore_smallblack_1_21_hires_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_baltimore_smallblack_3_21_hires.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 19,
+      "name": "Louisville Lampu Lantai Minimalis Yellow Indoor",
+      "brand": "Louisville",
+      "category": "Lampu Lantai",
+      "stock": 13,
+      "price": 909000,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_louisville_b_21_hires_1.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_louisville_1_21_hires_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_louisville_6_21_hires_1.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 20,
+      "name": "Hamilton Lampu Lantai Minimalis Indoor White",
+      "brand": "Hamilton",
+      "category": "Lampu Lantai",
+      "stock": 20,
+      "price": 909000,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampu_lantai_baltimore_white-_7_.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_louisville_1_21_hires_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/5/1/518926_-_baltimore_floor_lamp_small_white_re_1_2.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    }
+  ],
+  "carts": [],
+  "transactions": [
+    {
+      "idUser": "1",
+      "status": "Paid",
+      "createdAt": "14-Mar-2021 10:30:24",
+      "total": 2727000,
+      "detail": [
+        {
+          "productName": "Baltimore Lampu Lantai Minimalis White Indoor",
+          "productPrice": 909000,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampu_burlinfton_white.jpg?auto=format&h=640&ixlib=react-9.0.3",
+          "productWeight": 3,
+          "productCategory": "Lampu Lantai",
+          "productBrand": "Baltimore",
+          "productID": 17
+        },
+        {
+          "productName": "Baltimore Lampu Lantai Minimalis Black Indoor",
+          "productPrice": 909000,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_baltimore_smallblack_a_ori_hires_1_2_1.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+          "productWeight": 3,
+          "productCategory": "Lampu Lantai",
+          "productBrand": "Baltimore",
+          "productID": 18
+        },
+        {
+          "productName": "Louisville Lampu Lantai Minimalis Yellow Indoor",
+          "productPrice": 909000,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_louisville_b_21_hires_1.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+          "productWeight": 3,
+          "productCategory": "Lampu Lantai",
+          "productBrand": "Louisville",
+          "productID": 19
+        }
+      ],
+      "id": 1
+    },
+    {
+      "idUser": "1",
+      "status": "Paid",
+      "createdAt": "14-Mar-2021 10:20:01",
+      "total": 1539000,
+      "detail": [
+        {
+          "productName": "Lemari Buku Uno",
+          "productPrice": 1539000,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/d/e/desain_tanpa_judul.png?auto=format&h=640&ixlib=react-9.0.3",
+          "productWeight": 3,
+          "productCategory": "Lemari",
+          "productBrand": "Uno",
+          "productID": 14
+        }
+      ],
+      "id": 2
+    },
+    {
+      "idUser": "1",
+      "status": "Paid",
+      "createdAt": "14-Mar-2021 10:29:18",
+      "total": 909000,
+      "detail": [
+        {
+          "productName": "Baltimore Lampu Lantai Minimalis White Indoor",
+          "productPrice": 909000,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampu_burlinfton_white.jpg?auto=format&h=640&ixlib=react-9.0.3",
+          "productWeight": 3,
+          "productCategory": "Lampu Lantai",
+          "productBrand": "Baltimore",
+          "productID": 17
+        }
+      ],
+      "id": 3
+    },
+    {
+      "idUser": "1",
+      "status": "Paid",
+      "createdAt": "14-Mar-2021 10:33:16",
+      "total": 4545000,
+      "detail": [
+        {
+          "productName": "Louisville Lampu Lantai Minimalis Yellow Indoor",
+          "productPrice": 909000,
+          "productQuantity": 5,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_louisville_b_21_hires_1.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+          "productWeight": 3,
+          "productCategory": "Lampu Lantai",
+          "productBrand": "Louisville",
+          "productID": 19
+        }
+      ],
+      "id": 4
+    },
+    {
+      "idUser": "1",
+      "status": "Paid",
+      "createdAt": "14-Mar-2021 11:57:38",
+      "total": 909000,
+      "detail": [
+        {
+          "productName": "Louisville Lampu Lantai Minimalis Yellow Indoor",
+          "productPrice": 909000,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_louisville_b_21_hires_1.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+          "productWeight": 3,
+          "productCategory": "Lampu Lantai",
+          "productBrand": "Louisville",
+          "productID": 19
+        }
+      ],
+      "id": 5
+    },
+    {
+      "idUser": "1",
+      "status": "Unpaid",
+      "createdAt": "15-Mar-2021 11:24:21",
+      "total": 909000,
+      "detail": [
+        {
+          "productName": "Baltimore Lampu Lantai Minimalis White Indoor",
+          "productPrice": 909000,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampu_burlinfton_white.jpg?auto=format&h=640&ixlib=react-9.0.3",
+          "productWeight": 3,
+          "productCategory": "Lampu Lantai",
+          "productBrand": "Baltimore",
+          "productID": 17
+        }
+      ],
+      "id": 6
+    },
+    {
+      "idUser": "1",
+      "status": "Paid",
+      "createdAt": "14-Mar-2021 11:57:36",
+      "total": 1818000,
+      "detail": [
+        {
+          "productName": "Baltimore Lampu Lantai Minimalis Black Indoor",
+          "productPrice": 909000,
+          "productQuantity": 2,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_baltimore_smallblack_a_ori_hires_1_2_1.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+          "productWeight": 3,
+          "productCategory": "Lampu Lantai",
+          "productBrand": "Baltimore",
+          "productID": 18
+        }
+      ],
+      "id": 7
+    },
+    {
+      "idUser": "1",
+      "status": "Paid",
+      "createdAt": "14-Mar-2021 11:57:31",
+      "total": 909000,
+      "detail": [
+        {
+          "productName": "Baltimore Lampu Lantai Minimalis White Indoor",
+          "productPrice": 909000,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampu_burlinfton_white.jpg?auto=format&h=640&ixlib=react-9.0.3",
+          "productWeight": 3,
+          "productCategory": "Lampu Lantai",
+          "productBrand": "Baltimore",
+          "productID": 17
+        }
+      ],
+      "id": 8
+    },
+    {
+      "idUser": "1",
+      "status": "Unpaid",
+      "createdAt": "14-Mar-2021 11:59:19",
+      "total": 1818000,
+      "detail": [
+        {
+          "productName": "Hamilton Lampu Lantai Minimalis Indoor White",
+          "productPrice": 909000,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampu_lantai_baltimore_black-_5_.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+          "productWeight": 3,
+          "productCategory": "Lampu Lantai",
+          "productBrand": "Hamilton",
+          "productID": 16
+        },
+        {
+          "productName": "Baltimore Lampu Lantai Minimalis Black Indoor",
+          "productPrice": 909000,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_baltimore_smallblack_a_ori_hires_1_2_1.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+          "productWeight": 3,
+          "productCategory": "Lampu Lantai",
+          "productBrand": "Baltimore",
+          "productID": 18
+        }
+      ],
+      "id": 9
+    }
+  ]
+}
